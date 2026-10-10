@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Smart Debt Messenger",
+  "description": "Automate customer debt management, import data from various file formats, and send personalized SMS payment reminders efficiently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
